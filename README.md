@@ -1,3 +1,5 @@
+LINK to site: https://chriscodes17.github.io/Social-media-dashboard/
+
 # Frontend Mentor - Social media dashboard with theme switcher
 
 ![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
